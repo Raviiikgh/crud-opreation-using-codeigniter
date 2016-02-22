@@ -1,2 +1,2 @@
  # crud-opreation-using-codeigniter
-This is CRUD Operation using codeigniter
+This is CRUD Operation with pagination using codeigniter 
